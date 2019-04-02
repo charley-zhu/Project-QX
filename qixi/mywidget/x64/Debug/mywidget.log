@@ -1,0 +1,15 @@
+﻿  Moc'ing mywidget.h...
+  Uic'ing mywidget.ui...
+  Rcc'ing mywidget.qrc...
+RCC : warning : No resources in 'G:\鏂囨。\鐮旂┒鐢焅鐣岄潰绠楁硶(鏇存柊7.10.1)\涓婅鐣岄潰绠楁硶(鏇存柊6.20锛塡mywidget_log11oneserver\mywidget\mywidget.qrc'.
+  
+  StdAfx.cpp
+  moc_mywidget.cpp
+g:\文档\研究生\界面算法(更新7.10.1)\上行界面算法(更新6.20）\mywidget_log11oneserver\mywidget\mywidget.h(6): fatal error C1083: 无法打开包括文件: “QTcpServer”: No such file or directory
+  main.cpp
+g:\文档\研究生\界面算法(更新7.10.1)\上行界面算法(更新6.20）\mywidget_log11oneserver\mywidget\mywidget.h(6): fatal error C1083: 无法打开包括文件: “QTcpServer”: No such file or directory
+  mywidget.cpp
+g:\文档\研究生\界面算法(更新7.10.1)\上行界面算法(更新6.20）\mywidget_log11oneserver\mywidget\mywidget.h(6): fatal error C1083: 无法打开包括文件: “QTcpServer”: No such file or directory
+  ProCes.cpp
+g:\文档\研究生\界面算法(更新7.10.1)\上行界面算法(更新6.20）\mywidget_log11oneserver\mywidget\proces.cpp(9): fatal error C1083: 无法打开包括文件: “QDebug”: No such file or directory
+  正在生成代码...
